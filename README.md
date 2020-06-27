@@ -2,6 +2,9 @@
 
 stm32 vga driver
 
+Demo video: https://youtu.be/2rrmiBwJffc
+Hardware: https://github.com/RobertoBenjami/stm32_vga/blob/master/Vga_hardware.pdf
+
 App:
 - LcdSpeedTest: Lcd speed test
 - JpgViewer: JPG file viewer from SD card or pendrive
